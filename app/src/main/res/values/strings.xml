@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FlightApp</string>
+    <string name = "enter_username">Enter Username</string>
+    <string name = "enter_password">Enter Password</string>
+    <string name = "login">Log In</string>
+    <string name="admin_title">Admin Page</string>
+    <string name="client_title">Client Page</string>
+    <string name="upload_clients">Upload Clients</string>
+    <string name="upload_flights">Upload Flights</string>
+    <string name="view_info">View Information</string>
+    <string name="display_info">Display Information</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="credit_card">Credit Card Number</string>
+    <string name="expiry">Expiry YYYY-MM-DD</string>
+    <string name="set_info">Set Information</string>
+    <string name="deparute_date">Departue Date Time YYYY-MM-DD</string>
+    <string name="destination">Destination</string>
+    <string name="origin">Origin</string>
+    <string name="search">Search</string>
+    <string name="book">Book Itinerary</string>
+    <string name="show_booked">Show Booked</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="sort_by_time">Sort By Time</string>
+    <string name="sort_by_cost">Sort By Cost</string>
+    <string name="search_itineraries">Search Itineraries</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="booked_itineraries">Booked Itineraries</string>
+</resources>
